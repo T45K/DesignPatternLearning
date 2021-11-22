@@ -28,4 +28,18 @@ fun main() {
         .run(::println)
 
     // JavaのStreamはCollectionから生えてる（Iterableから生えてない）ので上のようにはできない
+
+    val list = LinkedList<Book>().apply {
+        add(Book("hoge"))
+        add(Book("fuga"))
+        removeFirst()
+        addFirst(Book("piyo"))
+        addLast(Book("foo"))
+        addFirst(Book("bar"))
+        removeLast()
+        add(Book("baz"))
+    }
+    for (book in list) {
+        println(book)
+    }
 }
