@@ -6,4 +6,4 @@
 
 - [Iterator](./app/src/main/kotlin/io/github/t45k/designPatternLearning/iterator)
 - [Adapter](./app/src/main/kotlin/io/github/t45k/designPatternLearning/adapter)
-- [Template Methode](./app/src/main/kotlin/io/github/t45k/designPatternLearning/templateMethod)
+- [Template Method](./app/src/main/kotlin/io/github/t45k/designPatternLearning/templateMethod)
