@@ -3,6 +3,9 @@ package io.github.t45k.designPatternLearning.builder
 import java.io.FileWriter
 import java.io.IOException
 
+/**
+ * Concrete Builder
+ */
 class HTMLBuilder : Builder() {
     private lateinit var fileName: String
     private val sb = StringBuilder()

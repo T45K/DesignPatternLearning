@@ -1,5 +1,8 @@
 package io.github.t45k.designPatternLearning.builder
 
+/**
+ * Concrete Builder
+ */
 class TextBuilder : Builder() {
     private val sb = StringBuilder()
 

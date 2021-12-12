@@ -1,5 +1,9 @@
 package io.github.t45k.designPatternLearning.builder
 
+/**
+ * Director
+ * BuilderのAPIを用いてオブジェクトを生成する
+ */
 class Director(private val builder: Builder) {
     fun construct() {
         builder.run {

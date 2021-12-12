@@ -10,3 +10,4 @@
 - [Factory Method](./app/src/main/kotlin/io/github/t45k/designPatternLearning/factoryMethod)
 - [Singleton](./app/src/main/kotlin/io/github/t45k/designPatternLearning/singleton)
 - [Prototype](./app/src/main/kotlin/io/github/t45k/designPatternLearning/prototype)
+- [Builder](./app/src/main/kotlin/io/github/t45k/designPatternLearning/builder)
