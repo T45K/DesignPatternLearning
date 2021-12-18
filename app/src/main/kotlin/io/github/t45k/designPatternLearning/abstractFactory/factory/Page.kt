@@ -5,6 +5,9 @@ import java.nio.file.Files
 import java.nio.file.StandardOpenOption
 import kotlin.io.path.Path
 
+/**
+ * Abstract Product
+ */
 abstract class Page(protected val title: String, protected val author: String) {
     protected val content = mutableListOf<Item>()
 

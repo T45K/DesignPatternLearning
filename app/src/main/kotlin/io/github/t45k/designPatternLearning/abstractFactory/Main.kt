@@ -3,6 +3,9 @@ package io.github.t45k.designPatternLearning.abstractFactory
 import io.github.t45k.designPatternLearning.abstractFactory.factory.getFactory
 import kotlin.system.exitProcess
 
+/**
+ * Client
+ */
 fun main(args: Array<String>) {
     if (args.size != 2) {
         println("Usage: java Main filename.html class.name.of.ConcreteFactory")
