@@ -1,6 +1,7 @@
 package io.github.t45k.designPatternLearning.prototype
 
 import io.github.t45k.designPatternLearning.prototype.framework.Product
+import util.times
 
 /**
  * Concrete Prototype
