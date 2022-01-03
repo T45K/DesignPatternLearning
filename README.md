@@ -13,3 +13,4 @@
 - [Builder](./app/src/main/kotlin/io/github/t45k/designPatternLearning/builder)
 - [Abstract Factory](./app/src/main/kotlin/io/github/t45k/designPatternLearning/abstractFactory)
 - [Bridge](./app/src/main/kotlin/io/github/t45k/designPatternLearning/bridge)
+- [Strategy](./app/src/main/kotlin/io/github/t45k/designPatternLearning/strategy)
