@@ -16,3 +16,4 @@
 10. [Strategy](./app/src/main/kotlin/io/github/t45k/designPatternLearning/strategy)
 11. [Composite](./app/src/main/kotlin/io/github/t45k/designPatternLearning/composite)
 12. [Decorator](./app/src/main/kotlin/io/github/t45k/designPatternLearning/decorator)
+13. [Visitor](./app/src/main/kotlin/io/github/t45k/designPatternLearning/visitor)
