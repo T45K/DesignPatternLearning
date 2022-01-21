@@ -19,3 +19,4 @@
 13. [Visitor](./app/src/main/kotlin/io/github/t45k/designPatternLearning/visitor)
 14. [Chain of Responsibility](./app/src/main/kotlin/io/github/t45k/designPatternLearning/chainOfResponsibility)
 15. [Facade](./app/src/main/kotlin/io/github/t45k/designPatternLearning/facade)
+16. [Observer](./app/src/main/kotlin/io/github/t45k/designPatternLearning/observer)
