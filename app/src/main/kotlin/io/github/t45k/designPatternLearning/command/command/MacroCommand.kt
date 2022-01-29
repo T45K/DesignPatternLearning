@@ -1,7 +1,7 @@
 package io.github.t45k.designPatternLearning.command.command
 
 /**
- * ConcreateCommand
+ * ConcreteCommand
  */
 class MacroCommand : Command {
     private val commands = ArrayDeque<Command>()
