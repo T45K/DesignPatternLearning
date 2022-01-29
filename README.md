@@ -22,3 +22,4 @@
 16. [Observer](./app/src/main/kotlin/io/github/t45k/designPatternLearning/observer)
 17. [Memento](./app/src/main/kotlin/io/github/t45k/designPatternLearning/memento)
 18. [Flyweight](./app/src/main/kotlin/io/github/t45k/designPatternLearning/flyweight)
+19. [Proxy](./app/src/main/kotlin/io/github/t45k/designPatternLearning/proxy)
