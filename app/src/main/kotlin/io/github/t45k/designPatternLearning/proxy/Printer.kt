@@ -15,7 +15,7 @@ class Printer(override var printerName: String) : Printable {
         println(msg)
         repeat(5) {
             Thread.sleep(1000)
-            print(".")
+            kotlin.io.print(".")
         }
         println("完了。")
     }
