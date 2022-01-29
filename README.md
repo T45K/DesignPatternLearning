@@ -25,3 +25,4 @@
 19. [State](./app/src/main/kotlin/io/github/t45k/designPatternLearning/state)
 20. [Flyweight](./app/src/main/kotlin/io/github/t45k/designPatternLearning/flyweight)
 21. [Proxy](./app/src/main/kotlin/io/github/t45k/designPatternLearning/proxy)
+22. [Command](./app/src/main/kotlin/io/github/t45k/designPatternLearning/command)
